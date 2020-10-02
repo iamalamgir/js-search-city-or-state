@@ -1,0 +1,49 @@
+/*****Search-City-Or-State*****/
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+html {
+    
+}
+
+body {
+    text-align: center;
+    background: #193549;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:;
+    font-size:;
+}
+
+.search {
+    width: 400px;
+    height: 55px;
+    border: #fafa 5px solid;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.suggestions {
+
+}
+
+li {
+    width: 300px;
+    height: 30px;
+    background: #ffffff;
+    border: #ffffff 3px solid;
+    text-align: center;
+    color: #000000;
+    font-size: 12px;
+    list-style: none;
+    margin-left: 525px;
+    margin-top: 0px; 
+    border-bottom: 2px dashed #fafa;
+    padding-top: 15px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
